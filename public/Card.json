@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "status": "Open",
+    "description": "Customer cannot log in despite multiple password reset attempts. Needs urgent support.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "John Smith",
+    "date": "1/15/2024"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed - Transaction Error",
+    "status": "Open",
+    "description": "Payment failed multiple times via credit card. Customer requires assistance immediately.",
+    "priority": "MEDIUM PRIORITY",
+    "assignedTo": "Jane Doe",
+    "date": "1/16/2024"
+  },
+  {
+    "id": 1003,
+    "title": "Bug in Checkout Page",
+    "status": "Open",
+    "description": "Checkout button not responding on mobile devices. Users unable to complete purchases.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "Alice Johnson",
+    "date": "1/17/2024"
+  },
+  {
+    "id": 1004,
+    "title": "Feature Request - Dark Mode",
+    "status": "Open",
+    "description": "User requested dark mode for better night usage. Consider implementing this feature.",
+    "priority": "LOW PRIORITY",
+    "assignedTo": "Bob Williams",
+    "date": "1/18/2024"
+  },
+  {
+    "id": 1005,
+    "title": "Account Suspended",
+    "status": "Open",
+    "description": "Customer account suspended without notice. Urgent review and action required.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "Cathy Brown",
+    "date": "1/19/2024"
+  },
+  {
+    "id": 1006,
+    "title": "App Crash on Startup",
+    "status": "Open",
+    "description": "App crashes immediately on launch for Android 12 users. Needs urgent bug fix.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "David Lee",
+    "date": "1/20/2024"
+  },
+  {
+    "id": 1007,
+    "title": "Incorrect Billing Amount",
+    "status": "Open",
+    "description": "Billing amount higher than expected after renewal. Customer requires clarification.",
+    "priority": "MEDIUM PRIORITY",
+    "assignedTo": "Ella Davis",
+    "date": "1/21/2024"
+  },
+  {
+    "id": 1008,
+    "title": "Missing Notification Emails",
+    "status": "Open",
+    "description": "User not receiving system notifications after updates. Needs investigation promptly.",
+    "priority": "LOW PRIORITY",
+    "assignedTo": "Frank Moore",
+    "date": "1/22/2024"
+  },
+  {
+    "id": 1009,
+    "title": "Slow Loading Dashboard",
+    "status": "Open",
+    "description": "Dashboard takes more than 15 seconds to load with over 1000 entries. Optimize performance.",
+    "priority": "MEDIUM PRIORITY",
+    "assignedTo": "Grace Hall",
+    "date": "1/23/2024"
+  },
+  {
+    "id": 1010,
+    "title": "Profile Picture Not Updating",
+    "status": "Open",
+    "description": "Users cannot update profile pictures; old image remains. Needs bug fix urgently.",
+    "priority": "LOW PRIORITY",
+    "assignedTo": "Henry Clark",
+    "date": "1/24/2024"
+  },
+  {
+    "id": 1011,
+    "title": "Notification Settings Reset",
+    "status": "Open",
+    "description": "User notification settings reset after latest update. Needs prompt correction.",
+    "priority": "MEDIUM PRIORITY",
+    "assignedTo": "Isabella Lewis",
+    "date": "1/25/2024"
+  },
+  {
+    "id": 1012,
+    "title": "Search Function Not Working",
+    "status": "Open",
+    "description": "Search bar fails to return results even for existing items. Fix required quickly.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "Jack Walker",
+    "date": "1/26/2024"
+  },
+  {
+    "id": 1013,
+    "title": "Incorrect Date Display",
+    "status": "Open",
+    "description": "Event dates display one day earlier than actual. Needs correction in calendar view.",
+    "priority": "LOW PRIORITY",
+    "assignedTo": "Karen Young",
+    "date": "1/27/2024"
+  },
+  {
+    "id": 1014,
+    "title": "Unable to Upload Documents",
+    "status": "Open",
+    "description": "File upload fails with error 500 for PDFs larger than 5MB. Requires urgent fix it.",
+    "priority": "HIGH PRIORITY",
+    "assignedTo": "Liam King",
+    "date": "1/28/2024"
+  }
+  
+]
