@@ -11,7 +11,7 @@ const Banner = ({inprogress}) => {
     return (
         <div className='mt-5 max-w-[1200px] mx-auto flex justify-between gap-5'>
             
-            <div className='w-[780px] h-[250px] bg-cover bg-no-repeat flex items-center justify-center'
+            <div className='w-[780px] h-[250px] bg-cover bg-no-repeat flex items-center justify-center rounded-lg'
             style={{
                 backgroundImage: `linear-gradient(to bottom right, #632EE3, #9F62F2), url(${shakib})`}}>
                 <div>
@@ -21,7 +21,10 @@ const Banner = ({inprogress}) => {
             </div> 
 
             <div className='w-[780px] h-[250px] bg-gradient-to-r from-[#54CF68] to-[#00827A] rounded-lg flex items-center justify-center' >
-                <h1 className='text-white font-bold text-4xl'>0</h1>
+                <div>
+                    <h1 className='text-center text-xl mb-2 text-white'>Resolved</h1>
+                    <h1 className='text-white text-center  font-bold text-4xl'>0</h1>
+                </div>
             </div>  
 
         </div>
