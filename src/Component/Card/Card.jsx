@@ -4,8 +4,8 @@ import date from '../../assets/date.png'
 const Card = ({ card, onCardClick }) => {
   return (
     <div className="max-w-[1200px] mx-auto">
-      <div className="bg-white mb-5 p-5 rounded-xl shadow-sm"
-      onClick={onCardClick}>
+      <div className="bg-white mb-5 p-5 rounded-xl shadow-sm cursor-pointer"
+      onClick={() => onCardClick(card)}>
         <div className="flex gap-5  justify-between">
             <h3 className="font-semibold text-lg">{card.title}</h3>
             <button className="bg-green-300 flex items-center gap-2 rounded-xl px-2 py-1">
